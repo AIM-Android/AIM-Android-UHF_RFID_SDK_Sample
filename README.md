@@ -1,1 +1,0 @@
-# AIM-Android-UHF_RFID_SDK_Sample
