@@ -26,4 +26,4 @@ Install and run the UHF_RFID_SDK_Sample App. When you click the "Trigger once Sc
 # other
 For more information about the UHF_RFID_SDK App, please refer to:   
 [User Manual  for UHF_RFID_SDK App](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/main/doc/UHF_RFID_SDK%0D%0AQuick%20Start%20Guide%20V1.0.pdf)  
-[UHF_RFID_SDK release package download](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/master/release/v1.0/ScannerWedge_20220316_V1.0.7z)
+[UHF_RFID_SDK release package download](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/main/release/UHF_RFID_SDK_1.0.0.apk)

@@ -25,4 +25,4 @@ UHF_RFID_SDK App对扫描到的条形码数据有键盘方式和广播方式两�
 # 其他
 有关UHF_RFID_SDK App的更多资料请参考:  
 [UHF_RFID_SDK App使用说明](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/main/doc/UHF_RFID_SDK%0D%0AQuick%20Start%20Guide%20V1.0.pdf)  
-[UHF_RFID_SDK发布包下载](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/master/release/v1.0/ScannerWedge_20220316_V1.0.7z)
+[UHF_RFID_SDK发布包下载](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/main/release/UHF_RFID_SDK_1.0.0.apk)
