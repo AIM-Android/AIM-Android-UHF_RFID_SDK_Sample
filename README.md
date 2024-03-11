@@ -9,7 +9,7 @@ The UHF_RFID_SDK App integrates RFID modules from multiple vendors. You only nee
 
 ## 2. Run the UHF_RFID_SDK App and set it up
 ### 2.1  Select Module
-The UHF-RFID0SDK app currently supports the FT230X module and will continue to support more modules in the future. Please select the corresponding RFID module from the App RFID dropdown menu.
+The UHF_RFID_SDK app currently supports the FT230X module and will continue to support more modules in the future. Please select the corresponding RFID module from the App RFID dropdown menu.
 ![](https://github.com/AIM-Android/UHF_RFID_SDK_Sample/blob/main/images/rfid.png)
 
 ### 2.2 Select Output Mode
